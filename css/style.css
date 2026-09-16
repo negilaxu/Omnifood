@@ -92,18 +92,15 @@
     align-items: center;
 }
 
-
 .hero-description {
     font-size: 2rem;
     line-height: 1.5;
     margin-bottom: 4.8rem;
 }
 
-
 .hero-img {
     width: 100%;
 }
-
 
 .delivered-meals {
     display: flex;
@@ -143,7 +140,7 @@
 /***********************/
 
 .section-featured {
-    padding: 4.6rem 0 3.2rem 0;
+    padding: 4.8rem 0 3.2rem 0;
 }
 
 .heading-featured-in {
@@ -320,7 +317,6 @@
     display: grid;
     grid-template-columns: 55fr 45fr;
     align-items: center;
-
 }
 
 .testimonials-container {
